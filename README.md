@@ -4,3 +4,8 @@
 
 -Objectif: 
      The goal of this project is to identify Twitter bot profiles by combining Benford's Law with different Machine Learning (ML) classifiers. The project also covers numerous statistical techniques that are employed to confirm the classification outcomes.
+
+
+
+LINKS : 
+https://towardsdatascience.com/python-detecting-twitter-bots-with-graphs-and-machine-learning-41269205ab07
